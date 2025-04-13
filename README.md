@@ -35,4 +35,7 @@ The **Company Directory Application** is a responsive web application designed t
 ### Database  
 - **MySQL**:  
   - For structured data storage and relationships.  
-  - Relational database design supports one-to-many relationship between departments and locations.  
+  - Relational database design supports one-to-many relationship between departments and locations.
+ 
+## Live Link
+https://esramkarabulut.co.uk/company-directory-react/
